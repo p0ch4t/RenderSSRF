@@ -10,4 +10,12 @@ Pasos para ejecutar:
 
 Notas: el endpoint
  - /config --> Sirve para configurar su SSRF (se le solicita la petición de burp)
+
+![Config Image](/images/config.png)
+
  - /browser --> Renderiza el sitio web que ingreses
+
+ ![Browser image](/images/browser.png)
+
+ ![Browser image](/images/browser2.png)
+
